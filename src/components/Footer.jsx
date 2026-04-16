@@ -29,7 +29,7 @@ function Footer() {
             <h4 className="footer-links-title">Connect</h4>
             <div className="social-icons">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/rudramehta1836-wq"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-icon"
